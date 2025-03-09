@@ -1355,3 +1355,6 @@
 3/8/2025 | 8:14:21 PM | INFO | Start process for wallet 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
 3/8/2025 | 8:15:22 PM | INFO | Trying To Login for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
 3/8/2025 | 8:15:22 PM | ERROR | Login failed for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+3/9/2025 | 1:11:12 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/9/2025 | 1:11:12 AM | INFO | Start process for wallet 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+3/9/2025 | 1:12:13 AM | ERROR | Failed to retrieve nonce for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
