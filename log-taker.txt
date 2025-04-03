@@ -2716,3 +2716,15 @@
 4/2/2025 | 8:20:11 PM | WARN | Retrying... (0 attempts left) 
 4/2/2025 | 8:20:15 PM | ERROR | Failed to get nonce after retries: Request failed with status code 521
 4/2/2025 | 8:20:15 PM | ERROR | Failed to retrieve nonce for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+4/3/2025 | 1:23:53 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/3/2025 | 1:23:53 AM | INFO | Start process for wallet 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+4/3/2025 | 1:23:54 AM | INFO | Trying To Login for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+4/3/2025 | 1:23:55 AM | INFO | Login successful... 
+4/3/2025 | 1:23:55 AM | INFO | Trying to check user info... 
+4/3/2025 | 1:23:56 AM | INFO | User ID: 99011530 | Twitter: @gmeyliaa | Total Points: 1058680 
+4/3/2025 | 1:23:56 AM | INFO | Trying to check user miner status... 
+4/3/2025 | 1:23:56 AM | INFO | Last mining time: 4/1/2025, 12:38:21 PM
+4/3/2025 | 1:23:56 AM | INFO | Trying to start Mining for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+4/3/2025 | 1:23:57 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+4/3/2025 | 1:23:57 AM | INFO | Trying to activate mining on-chain for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+4/3/2025 | 1:24:04 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x06d1dc4d15bdfba89e45eb47cefddc2ac0a11e66ff0edfc5c3784f6bc78da058 
