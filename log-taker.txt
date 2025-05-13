@@ -5004,3 +5004,16 @@
 5/12/2025 | 8:21:31 PM | INFO | Trying to activate mining on-chain for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
 5/12/2025 | 8:21:38 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000","reason":"must be more than 24 hours since the last activation.","transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE"},"invocation":null,"revert":{"signature":"Error(string)","name":"Error","args":["must be more than 24 hours since the last activation."]},"shortMessage":"execution reverted: \"must be more than 24 hours since the last activation.\"","info":{"error":{"code":-32603,"message":"VM Exception while processing transaction: revert must be more than 24 hours since the last activation.","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x56","from":"0xecfc97a7a8d220f3c7b9cdbd5c72218f961424ee","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/12/2025 | 8:21:38 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/13/2025 | 1:38:20 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 1:38:20 AM | INFO | Start process for wallet 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+5/13/2025 | 1:38:21 AM | INFO | Trying To Login for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+5/13/2025 | 1:38:22 AM | INFO | Login successful... 
+5/13/2025 | 1:38:22 AM | INFO | Trying to check user info... 
+5/13/2025 | 1:38:23 AM | INFO | User ID: 99011530 | Twitter: @gmeyliaa | Total Points: 1946680 
+5/13/2025 | 1:38:23 AM | INFO | Trying to check user miner status... 
+5/13/2025 | 1:38:27 AM | INFO | Last mining time: 5/11/2025, 8:19:06 PM
+5/13/2025 | 1:38:27 AM | INFO | Trying to start Mining for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+5/13/2025 | 1:38:36 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/13/2025 | 1:38:36 AM | INFO | Trying to activate mining on-chain for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+5/13/2025 | 1:38:40 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
+5/13/2025 | 1:38:40 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
