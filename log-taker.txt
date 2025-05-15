@@ -5183,3 +5183,15 @@
 5/15/2025 | 4:24:45 PM | INFO | Trying to check user miner status... 
 5/15/2025 | 4:24:46 PM | INFO | Last mining time: 5/14/2025, 4:24:48 PM
 5/15/2025 | 4:24:46 PM | WARN | Mining already started, next mining time is: 5/15/2025, 4:24:48 PM
+5/15/2025 | 8:21:59 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/15/2025 | 8:21:59 PM | INFO | Start process for wallet 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+5/15/2025 | 8:22:00 PM | INFO | Trying To Login for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+5/15/2025 | 8:22:00 PM | INFO | Login successful... 
+5/15/2025 | 8:22:00 PM | INFO | Trying to check user info... 
+5/15/2025 | 8:22:01 PM | INFO | User ID: 99011530 | Twitter: @gmeyliaa | Total Points: 1970680 
+5/15/2025 | 8:22:01 PM | INFO | Trying to check user miner status... 
+5/15/2025 | 8:22:01 PM | INFO | Last mining time: 5/14/2025, 4:24:48 PM
+5/15/2025 | 8:22:01 PM | INFO | Trying to start Mining for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+5/15/2025 | 8:22:02 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/15/2025 | 8:22:02 PM | INFO | Trying to activate mining on-chain for wallet: 0xeCfC97A7A8d220F3C7B9cdBD5c72218F961424eE 
+5/15/2025 | 8:22:07 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x0bcfe23f5c2835bd4f940a49f95e2f76834f14876fb8e0e7bd7daeb281910be7 
